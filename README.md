@@ -1,5 +1,8 @@
 # Toposcope
 
+The source code was originally forked from the [Toposcope Repository](https://github.com/Zitong-Jin/TopoScope) by Ziton Jin.
+I am modifying the code for my thesis research only.
+
 ## What is TopoScope?
 
 TopoScope is an AS relationship inference algorithm that combines ensemble learning and Bayesian networks. In addition, TopoScope also supports hidden link inference. You can learn more about TopoScope in IMC 2020.
@@ -141,11 +144,3 @@ __Output data format__
 __Example__
 
 You can download AS relationship inference result form 2017 to 2019 in /asrel/.
-
-## Contact 
-
-You can contact us at <jinzt19@mails.tsinghua.edu.cn>.
-
-## Monthly inferred results
-
-We will update them later.
